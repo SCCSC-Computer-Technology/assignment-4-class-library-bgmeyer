@@ -1,0 +1,2 @@
+I assume that the Search class is the library.
+I like that you used searching as the functionality of the library. I see you also used it to create the sorting methods. Another good use, since you won't have to create these over and over. The comments are good too. I probably over-commented, partially to help me understand what I'm doing in the future and to help me keep things sorted while I do it. What you have is laid out nice and neat and trimmed.
