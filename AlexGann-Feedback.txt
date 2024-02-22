@@ -1,0 +1,3 @@
+Code is simple, thorough, and has adequate comments. I would have liked to see more
+comments going into detail on one of the queries, but as it is, only a basic understanding
+is required to read the code and comprehend it.
