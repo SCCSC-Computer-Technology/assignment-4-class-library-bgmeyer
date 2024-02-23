@@ -1,0 +1,1 @@
+After reviewing the author's code they have implemented a very nice search class that can search and sort states by multiple factors. There is nothing I would change about this class library and it is very well made. 
