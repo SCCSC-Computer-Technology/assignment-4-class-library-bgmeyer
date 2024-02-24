@@ -1,0 +1,6 @@
+Code Review for bgmeyer
+
+The author of this code made a clean and well thought out Search class. The code 
+itself is very well commented and that makes it easy to follow as I look through it
+The queries are straight forward and written well. I think this author did a good 
+job creating this class.
